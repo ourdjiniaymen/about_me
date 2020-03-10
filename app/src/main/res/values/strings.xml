@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AbouteMe</string>
+    <string name="name">Aymen Ourdjini</string>
+    <string name="yello_star">yello_star</string>
+    <string name="bio">Lorem ipsum dolor sit amet\nconsectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n enim ad minim veniam, quis nostrud exercitation ullamco laborommodo dere eu fugiatLorem ipsum dolor sit amet\nconsectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n enim ad minim veniam, quis nostrud exercitation ullamco laborommodo dere eu fugiatLorem ipsum dolor sit amet\n consectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n enim ad minim veniam, quis nostrud exercitation ullamco laborommodo dere eu fugiatLorem ipsum dolor sit amet\n consectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n enim ad minim veniam, quis nostrud exercitation ullamco laborommodo dere eu fugiat</string>
+    <string name="nickname_hint">what is your nick name</string>
+    <string name="done">Done</string>
+</resources>
